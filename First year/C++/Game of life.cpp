@@ -152,7 +152,9 @@ short main()
 	switch (answer)
 	{
 	case 'y':
+	
 		print_graph();
+		break;
 	default:
 		break;
 	}
